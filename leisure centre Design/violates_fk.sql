@@ -1,0 +1,1 @@
+INSERT INTO member_class(member_id, class_id) values('1','8');
